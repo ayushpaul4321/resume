@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paul Ayush Barun</title>
+      <link>https://example.org/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.org/home/</guid>
+      <description>&lt;h2 id=&#34;-about-me&#34;&gt;👋 About Me&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a Full Stack Developer based in Kolkata, India, currently studying at VIT Vellore. I love building secure, scalable systems and exploring AI, Blockchain, and Cloud-based tech. Passionate about solving real-world problems with clean, intelligent code.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-skills&#34;&gt;⚙️ Skills&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Languages&lt;/strong&gt;: Python, JavaScript, Java, C, C++&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frameworks&lt;/strong&gt;: Flask, React, Node.js, Express.js&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Databases&lt;/strong&gt;: MongoDB, MySQL, Firebase&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Blockchain&lt;/strong&gt;: Ethereum, Polygon, Web3.py&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Other&lt;/strong&gt;: Git, Docker, REST APIs, Tailwind CSS, Bootstrap&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-experience&#34;&gt;💼 Experience&lt;/h2&gt;&#xA;&lt;h3 id=&#34;intern--full-stack-developer&#34;&gt;Intern – Full Stack Developer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;[Your Last Company Name / Project]&lt;/strong&gt;&lt;br&gt;&#xA;&lt;em&gt;May 2024 – Aug 2024&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
